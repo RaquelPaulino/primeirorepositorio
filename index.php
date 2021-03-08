@@ -4,7 +4,10 @@
 </head>
 <body>
 <h1>
-<?php echo "Exemplo do código"; ?>
-</h1>
-<body>
+<?php echo "Estou aprendendo a programar"
+  
+  
+</h1
+  
+< corpo>
 </html>
