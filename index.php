@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>
-<?php echo "Estou aprendendo a programar"
+<?php echo "Estou aprendendo a programar"?>
   
   
 </h1
